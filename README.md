@@ -17,7 +17,7 @@ Login with google and access user data.(Without Using Google Token).
 
 2.Open the terminal with path of the project and give command 'NODEMONE' to start the application.
 
-3.Open the browser and navigate to "http://localhost:3000/".
+3.Open the browser and navigate to "http://localhost:3000/login".
 
 4.To exit close the browser and exit the running process in terminal by giving "Ctrl+C" command.
 
@@ -27,7 +27,7 @@ Login with google and access user data.(Without Using Google Token).
 
 2.Open the node command prompt or git bash with path of the project and give command 'NODEMONE' to start the application.
 
-3.Open the browser and navigate to "http://localhost:3000/".
+3.Open the browser and navigate to "http://localhost:3000/login".
 
 4.To exit close the browser and exit the running process in terminal by giving "Ctrl+C" command.
 
