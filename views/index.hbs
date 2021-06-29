@@ -1,2 +1,29 @@
-<h1>{{title}}</h1>
-<p>Welcome to {{title}}</p>
+<div class="container">
+    <h1>{{title}}</h1>
+    <p>Welcome to {{title}}</p>
+    <form action="/login" method="post">
+        <div class="row">
+            <h2 style="text-align:center">Login with Social Media</h2>
+            <div class="vl">
+                <span class="vl-innertext">or</span>
+            </div>
+
+            <div class="col">
+                <a href="/auth/google" class="google btn"><i class="fa fa-google fa-fw">
+                    </i> Login with Google+
+                </a>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="bottom-container">
+    <div class="row">
+        <div class="col">
+            <a href="/signup" style="color:white" class="btn">Sign up</a>
+        </div>
+        <div class="col">
+            <a href="#" style="color:white" class="btn">Forgot password?</a>
+        </div>
+    </div>
+</div>
