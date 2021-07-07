@@ -1,36 +1,27 @@
-# Way2Online_Task
-Assignment for Way2Online with SignUp functionality using Google Token and accessing the user data.
+# Task 1-Login with google and access user data. (Using Google Tokens).
 
-Task 1
+  ***** How to Run the Application *****
 
-Login with google and access user data.(Using Google Tokens).
+  ***** Linux *****
 
-Task 2 
+1. Download the project to local system using 'GIT CLONE <url>' command.
 
-Login with google and access user data.(Without Using Google Token).
+2. Open the terminal with path of the project and give command 'NODEMONE' to start the application.
 
-***** How to Run the Application *****
+3. Open the browser and navigate to "http://localhost:3000/login".
 
-***** Linux *****
+4. To exit close the browser and exit the running process in terminal by giving "Ctrl+C" command.
 
-1.Download the project to local system using 'GIT CLONE <url>' command.
+   ***** Windows *****
 
-2.Open the terminal with path of the project and give command 'NODEMONE' to start the application.
+1. Download the zip fil of the project to local system and extract it.
 
-3.Open the browser and navigate to "http://localhost:3000/login".
+2. Open the node command prompt or git bash with path of the project and give command 'NODEMONE' to start the application.
 
-4.To exit close the browser and exit the running process in terminal by giving "Ctrl+C" command.
+3. Open the browser and navigate to "http://localhost:3000/login".
 
-***** Windows *****
-
-1.Download the zip fil of the project to local system and extract it.
-
-2.Open the node command prompt or git bash with path of the project and give command 'NODEMONE' to start the application.
-
-3.Open the browser and navigate to "http://localhost:3000/login".
-
-4.To exit close the browser and exit the running process in terminal by giving "Ctrl+C" command.
+4. To exit close the browser and exit the running process in terminal by giving "Ctrl+C" command.
 
 Thank You
 
-Abib Mishael P
+@Abib Mishael P
